@@ -92,7 +92,7 @@ My "native" programming language, I've worked with it for over 6 years. I've use
 
 # 📜  Publication & Articles
 
-- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
+- [Dancing with OAuth: a step by step guide](_https://dev.to/anabella/dancing-with-oauth-emp)
 - 
 
 ---
